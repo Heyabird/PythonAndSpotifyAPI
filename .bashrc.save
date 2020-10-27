@@ -1,0 +1,2 @@
+alias ls='ls -lha'
+alias python='python3'
